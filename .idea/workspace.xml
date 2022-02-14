@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0f36095-e3f8-4254-8649-db9d00c5c89e" name="Changes" comment="done" />
+    <list default="true" id="d0f36095-e3f8-4254-8649-db9d00c5c89e" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/events_log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_log_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_log_parser.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +22,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python_snippets" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/python_snippets/07_practice.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/python_snippets/06_format.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/01_char_stat.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_snippets/07_practice.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/03_files_arrange.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/python_snippets/06_format.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/python_snippets/04_file_usage.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/02_log_parser.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="24vAxHpsOgY5mFf7VFn9KU2uzms" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,7 +49,7 @@
       <recent name="C:\Users\paren\Downloads\[SkillBox] [Вадим Шандринов] Python-разработчик\9. Работа с файлами и форматированный вывод\lesson_009" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.02_log_parser">
     <configuration name="01_char_stat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lesson_009" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +63,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_char_stat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_log_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lesson_009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_log_parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_log_parser" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.01_char_stat" />
       </list>
@@ -110,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644501516931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done">
+      <created>1644576486183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644576486183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
